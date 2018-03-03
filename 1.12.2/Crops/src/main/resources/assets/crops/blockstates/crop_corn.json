@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cross"
+    },
+    "variants": {
+        "age": { "0": { "textures": { "cross": "crops:blocks/corn/stage_0" }},
+                 "1": { "textures": { "cross": "crops:blocks/corn/stage_1" }},
+                 "2": { "textures": { "cross": "crops:blocks/corn/stage_2" }},
+                 "3": { "textures": { "cross": "crops:blocks/corn/stage_3" }},
+                 "4": { "textures": { "cross": "crops:blocks/corn/stage_4" }},
+                 "5": { "textures": { "cross": "crops:blocks/corn/stage_5" }},
+                 "6": { "textures": { "cross": "crops:blocks/corn/stage_6" }},
+                 "7": { "textures": { "cross": "crops:blocks/corn/stage_7" }}
+        }
+    }
+}
